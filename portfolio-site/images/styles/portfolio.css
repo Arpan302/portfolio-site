@@ -112,3 +112,14 @@ main{
     font-size: 20px;
 
 }
+/* what i do */
+.what-i-do{
+    margin-top: 130px;
+}
+.skill-container{
+    display: flex;
+}
+.skill-title{
+    font-size: 20px;
+    font-weight: 700;
+}
